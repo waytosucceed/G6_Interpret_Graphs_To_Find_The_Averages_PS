@@ -1,0 +1,192 @@
+{
+  "heading": "G6_Interpret Graphs To Find The Averages",
+  "topics": [
+    {
+      "heading": "Interpret Graphs To Find The Averages",
+      "questions": [
+
+  
+
+
+  {
+    "questionNo": 1,
+    "question": [
+      "The ages of people in a small group were recorded.<br>What is the <b>mode</b> of the ages?"
+    ],
+    "options": [
+      { "text": "28" },
+      { "text": "30" },
+      { "text": "No mode" },
+      { "text": "55" }
+    ],
+    "answer": 3,
+    "image": "./assests/images/question/1.png"
+  },
+  {
+    "questionNo": 2,
+    "question": [
+      "The ages of people in a small group were recorded.<br>What is the <b>range</b> of the ages?"
+    ],
+    "options": [
+      { "text": "56" },
+      { "text": "57" },
+      { "text": "46" },
+      { "text": "47" }
+    ],
+    "answer": 3,
+    "image": "./assests/images/question/1.png"
+  },
+  {
+    "questionNo": 3,
+    "question": [
+      "A class took a quiz. The students' scores (out of 100) are shown in the stem-and-leaf plot below.<br>What is the<b> mode</b> of the scores?"
+    ],
+    "options": [
+      { "text": "40 and 89" },
+      { "text": "0 and 9" },
+      { "text": "31, 40 and 89" },
+      { "text": "No mode" }
+    ],
+    "answer": 0,
+    "image": "./assests/images/question/2.png"
+  },
+  {
+    "questionNo": 4,
+    "question": [
+      "A class took a quiz. The students' scores (out of 100) are shown in the stem-and-leaf plot below.<br>What is the <b>range</b> of the scores?"
+    ],
+    "options": [
+      { "text": "56" },
+      { "text": "65" },
+      { "text": "75" },
+      { "text": "89" }
+    ],
+    "answer": 1,
+    "image": "./assests/images/question/2.png"
+  },
+  {
+    "questionNo": 5,
+    "question": [
+      "A shop recorded the number of cakes <b>sold over 7 days</b>.<br>What is the <b>median</b> of cakes sold?"
+    ],
+    "options": [
+      { "text": "20" },
+      { "text": "22" },
+      { "text": "23" },
+      { "text": "25" }
+    ],
+    "answer": 1,
+    "image": "./assests/images/question/3.png"
+  },
+  {
+    "questionNo": 6,
+    "question": [
+      "A shop recorded the number of cakes<b> sold over 7 days</b>.<br>What is the <b>mode</b> of cakes sold?"
+    ],
+    "options": [
+      { "text": "18" },
+      { "text": "20" },
+      { "text": "25" },
+      { "text": "No mode" }
+    ],
+    "answer": 3,
+    "image": "./assests/images/question/3.png"
+  },
+  {
+    "questionNo": 7,
+    "question": [
+      "A shop recorded the number of cakes <b>sold over 7 days</b>.<br>What is the <b>range</b> of cakes sold?"
+    ],
+    "options": [
+      { "text": "10" },
+      { "text": "12" },
+      { "text": "15" },
+      { "text": "20" }
+    ],
+    "answer": 2,
+    "image": "./assests/images/question/3.png"
+  },
+  {
+    "questionNo": 8,
+    "question": [
+      "A farmer recorded the liters of milk collected from his <b>farm over 7 days</b>.<br>What is the <b>mean</b> milk collected per day?"
+    ],
+    "options": [
+      { "text": "50.3" },
+      { "text": "51.3" },
+      { "text": "50" },
+      { "text": "51" }
+    ],
+    "answer": 0,
+    "image": "./assests/images/question/4.png"
+  },
+  {
+    "questionNo": 9,
+    "question": [
+      "A farmer recorded the liters of milk collected from his <b>farm over 7 days</b>.<br>What is the <b>mode</b> of milk collected?"
+    ],
+    "options": [
+      { "text": "45" },
+      { "text": "48" },
+      { "text": "50" },
+      { "text": "No mode" }
+    ],
+    "answer": 3,
+    "image": "./assests/images/question/4.png"
+  },
+  {
+    "questionNo": 10,
+    "question": [
+      "A farmer recorded the liters of milk collected from his <b>farm over 7 days</b>.<br><img src='./assests/images/question/4.png' width = '40%' ><br>The <b>median</b> milk collected is ______."
+    ],
+    "input": [""],
+    "answer": ["50"]
+  },
+  {
+    "questionNo": 11,
+    "question": [
+      "A farmer recorded the liters of milk collected from his <b>farm over 7 days</b>.<br><img src='./assests/images/question/4.png' width = '40%' ><br>The <b>range</b> of milk collected is ______."
+    ],
+    "input": [""],
+    "answer": ["18"]
+  },
+  {
+    "questionNo": 12,
+    "question": [
+      "The dot plot shows the number of pets owned by families in a colony.<br><img src='./assests/images/question/5.png' width = '30%' ><br>The mode of pets is ______."
+    ],
+    "input": [""],
+    "answer": ["2"]
+  },
+  {
+    "questionNo": 13,
+    "question": [
+      "The dot plot shows the number of books read by students in a month.<br><img src='./assests/images/question/6.png' width = '30%' ><br>The mode of books read is ______."
+    ],
+    "input": [""],
+    "answer": ["4"]
+  },
+  {
+    "questionNo": 14,
+    "question": [
+      "The dot plot shows the number of books read by students in a month.<br><img src='./assests/images/question/7.png' width = '30%' ><br>The mode of books read is ______ and ______."
+    ],
+    "input": ["", ""],
+    "answer": ["3", "5"],
+    "unorderedIndices": [0, 1]
+  },
+  {
+    "questionNo": 15,
+    "question": [
+      "The dot plot shows the number of pets owned by families in a colony.<br><img src='./assests/images/question/8.png' width = '30%' ><br>The mode of pets is ______."
+    ],
+    "input": [""],
+    "answer": ["2"]
+  }
+
+
+
+      ]
+    }
+  ]
+}
